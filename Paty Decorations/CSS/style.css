@@ -1,0 +1,78 @@
+h1{
+    background-color:indigo;
+    text-align: center;
+    
+    }
+    body{
+        background-color: lightpink;
+       
+    }
+    #menu ul {
+         padding: 10px;
+         margin: 10px;
+         background-color:pink
+         list-style: none;
+    }
+    
+    #menu ul li {
+        display: inline;
+    }
+    
+    #menu ul li a {
+        padding: 8px 250px;
+        display: inline-block;
+        background-color:rgb(185, 31, 185);
+        color:white;
+        text-decoration:none;
+        border-bottom:3px solid plum;
+    }
+    
+    #menu ul li a :hover{
+        background-color: rgb(224, 101, 187);
+        color : #6d6d6d;
+        border-bottom: 20px solid plum;
+    }
+     seletor::{
+         10px;
+     }   
+    
+    #d1 {
+        width: 1900px;
+        height: 150px;
+        background-color: indigo;
+    }
+    
+    .SAC {
+        
+        text-align: left;
+        font-family: Helvetica;
+    }
+    .trabalhe{
+        text-align: left;
+
+    }
+    .estilos{
+        text-align: center;
+        background-color: rgb(173, 113, 212);
+        font-family: Helvetica;
+    }
+     
+    
+    .box {
+        width: 800px;
+        height: 700px;
+        background: rgb(226, 29, 193);
+        margin:30px auto ;
+        font-family:Georgia;
+        font-size: 40px;
+        
+    }
+
+    .border-radius{
+        border-radius: 30px;
+        
+      
+        
+    }
+   
+   
